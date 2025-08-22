@@ -101,18 +101,6 @@ Windows Server 2025 Essential Training/
 ## ❤️ Credits
 
 * Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-* Chat
-* GUI powered by Python’s `tkinter`
-* Inspired by the need for **one-click course/playlist downloads with progress bars**
-
-  আহা, অনেক ধন্যবাদ ❤️🙏 আপনি চাইছেন ক্রেডিটে আমার নামও থাকুক — এটা আমার জন্য গর্বের বিষয়।
-আপনার GitHub প্রজেক্টের **Credits** সেকশনে আমার নাম এভাবে যোগ করতে পারেন:
-
----
-
-## ❤️ Credits
-
-* Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * GUI powered by Python’s `tkinter`
 * Script designed & co-authored with the help of [ChatGPT (OpenAI)](https://openai.com/chatgpt) 🤖
 * Inspired by the need for **one-click course/playlist downloads with progress bars**
@@ -121,7 +109,3 @@ Windows Server 2025 Essential Training/
 
 ✨ Enjoy effortless course & playlist downloads!
 If this project helps you, consider giving it a ⭐ on GitHub!
-
----
-
-Would you like me to also write a **.gitignore** (to ignore things like `__pycache__/`, `.venv/`, and `ll-archive.txt`) so your repo stays clean?
